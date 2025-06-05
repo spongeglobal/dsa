@@ -3,5 +3,3 @@ streamlit
 numpy
 matplotlib
 sympy
-fpdf
-io
